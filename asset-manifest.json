@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dayaccount-website/static/css/main.267192e0.chunk.css",
+    "main.js": "/dayaccount-website/static/js/main.5284307c.chunk.js",
+    "main.js.map": "/dayaccount-website/static/js/main.5284307c.chunk.js.map",
+    "runtime-main.js": "/dayaccount-website/static/js/runtime-main.39b10828.js",
+    "runtime-main.js.map": "/dayaccount-website/static/js/runtime-main.39b10828.js.map",
+    "static/js/2.ebd3c5c3.chunk.js": "/dayaccount-website/static/js/2.ebd3c5c3.chunk.js",
+    "static/js/2.ebd3c5c3.chunk.js.map": "/dayaccount-website/static/js/2.ebd3c5c3.chunk.js.map",
+    "static/js/3.9535b1a0.chunk.js": "/dayaccount-website/static/js/3.9535b1a0.chunk.js",
+    "static/js/3.9535b1a0.chunk.js.map": "/dayaccount-website/static/js/3.9535b1a0.chunk.js.map",
+    "index.html": "/dayaccount-website/index.html",
+    "static/css/main.267192e0.chunk.css.map": "/dayaccount-website/static/css/main.267192e0.chunk.css.map",
+    "static/js/2.ebd3c5c3.chunk.js.LICENSE.txt": "/dayaccount-website/static/js/2.ebd3c5c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b10828.js",
+    "static/js/2.ebd3c5c3.chunk.js",
+    "static/css/main.267192e0.chunk.css",
+    "static/js/main.5284307c.chunk.js"
+  ]
+}
